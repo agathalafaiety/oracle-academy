@@ -20,12 +20,12 @@ public class DesafioDespesas {
 		mercado = sc.nextDouble();
 
 		double totalDespesas = luz + agua + internet + mercado;
-	    int quantidadeDespesas = 4;
+	    	int quantidadeDespesas = 4;
 		double valorMediaDespesas = totalDespesas/quantidadeDespesas;
 
 		System.out.println("Total de despesas: " + totalDespesas );
 		System.out.printf("Total de despesas: %.2f", totalDespesas );
-		System.out.printf("\nA media das despesas é: " + valorMediaDespesas);
+		System.out.printf("\nA media das despesas Ã©: " + valorMediaDespesas);
 
 		sc.close();
 	}
