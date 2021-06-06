@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class DesafioTabuada {
 
 	public static void main(String[] args) {
+		
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Informe o numero da tabuada a ser calculada: ");
