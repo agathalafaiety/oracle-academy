@@ -1,2 +1,2 @@
 # oracle
-Exercícios feitos durante o curso de Fundamentos de Java da Oracle • Gerando Falcões
+Estudos feitos durante o curso Fundamentos de Java da Oracle • Gerando Falcões
