@@ -97,10 +97,5 @@ mvn clean package
 4. Execute `mvn clean package` antes de enviar alterações.
 5. Não versione arquivos gerados por IDEs ou pela compilação.
 
-## Autora
-
-Desenvolvido por [Agatha Lafaiety](https://github.com/agathalafaiety).
-
-## Licença
-
-Este projeto está disponível sob a [licença MIT](LICENSE).
+##
+- Desenvolvido por [Agatha Lafaiety](https://github.com/agathalafaiety).
