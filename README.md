@@ -1,7 +1,6 @@
 # Oracle Academy
 
 Repositório de estudos e exercícios desenvolvidos durante o curso **Fundamentos de Java**, da Oracle Academy em parceria com a Gerando Falcões.
-
 O projeto registra a evolução dos exemplos apresentados no curso: desde variáveis e estruturas de controle até pequenos programas orientados a objetos.
 
 ## Conteúdos
