@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class WhileNotNumber4 {
 
 	public static void main(String[] args) throws IOException {
-		File f = new  File("lista");
+		File f = new File("src/main/resources/lista.txt");
 		Scanner sc = new Scanner(f);
 		
 		if(sc.hasNextInt() == true) {
